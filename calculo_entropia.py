@@ -114,7 +114,7 @@ with PdfPages(informe_pdf) as pdf:
     pdf.savefig()
     plt.close()
 
-# Graficos
+    # Graficos
 
 
 
